@@ -1,5 +1,0 @@
-Apple,Banana,Grapes,Apple,Banana,Grapes,Apple,Banana,Grapes,Grapes,
-Grapes,Apple,Banana,Grapes,Apple,Banana,Banana,,Banana,Grapes,Grapes,Apple,Banana,Grapes,Apple,Banana,Grapes,Apple,Banana,Grapes,Grapes,
-Grapes,Apple,Banana,Grapes,Apple,Banana,Banana,,Banana,Grapes,Grapes,Banana,Apple,Grapes,Banana,Apple,Banana,Grapes,Apple,Banana,Grapes,Apple,Banana,Grapes,Grapes,
-Grapes,Apple,Banana,Grapes,Apple,Banana,Banana,,Banana,Grapes,Grapes,Apple,Banana,Grapes,Apple,Banana,Grapes,Apple,Banana,Grapes,Grapes,
-Grapes,Apple,Banana,Grapes,Apple,Banana,Banana,,Banana,Grapes,Grapes,Banana,Apple,Grapes,Banana.
